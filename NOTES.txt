@@ -1,0 +1,10 @@
+
+follow this
+
+https://docs.abp.io/en/abp/latest/Tutorials/Part-1?UI=NG&DB=EF
+
+Add Database Migration - default proj - bookstore.entityframeworkCore
+- package manager console
+Add-Migration Created_Book_Entity -c BookStoreMigrationsDbContext and Update-Database -c BookStoreMigrationsDbContext
+
+Create application service - https://docs.abp.io/en/abp/latest/Tutorials/Part-1?UI=NG&DB=EF#create-the-application-service
